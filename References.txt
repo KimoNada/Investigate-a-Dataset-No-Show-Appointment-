@@ -1,0 +1,6 @@
+Websites
+https://classroom.udacity.com/nanodegrees/nd002-fwd-t2
+nfpdiscussions.udacity.com
+www.google.com
+https://stackoverflow.com/
+https://pandas.pydata.org/docs/
